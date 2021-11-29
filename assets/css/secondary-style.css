@@ -5,8 +5,6 @@
     height: auto;
     text-align: center;
     margin-bottom: 40px;
-    position: relative;
-    background-image: url(../images/hero-bg.jpg);
 }
 
 .page-title {
@@ -21,7 +19,7 @@
 
 .secondary-content {
     width: 80%;
-    margin-top: auto;
+    margin: auto;
     color: #024e76;
 }
 
